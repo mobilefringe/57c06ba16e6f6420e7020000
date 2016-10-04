@@ -90,7 +90,7 @@
         <script id="store_promo_template" type="x-tmpl-mustache/text">
             <li>
                 <div class="promo_left_div">
-                    <a href="/careers/{{slug}} class="store_detail_title">{{name}}</a>
+                    <a href="/careers/{{slug}}" class="store_detail_title">{{name}}</a>
                     <p class="store_detail_description">{{description}}</p>
                     
                     
