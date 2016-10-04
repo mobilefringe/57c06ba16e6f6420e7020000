@@ -168,7 +168,7 @@
                             </div>
                             
                             <div class="promo_left_div">
-                                <a href="/promotions/{{slug}}" class="store_detail_title">{{name}}</a>
+                                <a href="/events/{{slug}}" class="store_detail_title">{{name}}</a>
                                 <p class="promo_dates">{{date_string}}</p>
                                 <p class="store_detail_description">{{description}}</p>
                                 
