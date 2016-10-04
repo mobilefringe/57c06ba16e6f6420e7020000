@@ -202,7 +202,7 @@
                                        
                                 </div>
                                 <div class="name_block">
-                                    <a href="/promotions/{{slug}}" class="store_detail_title">{{name}}</a>
+                                    <a href="/events/{{slug}}" class="store_detail_title">{{name}}</a>
                                 </div>
                                 
                                 <p class="store_detail_description">{{{description}}}</p>
