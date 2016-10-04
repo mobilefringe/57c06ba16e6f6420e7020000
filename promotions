@@ -104,8 +104,6 @@
                 <div class="promo_left_div">
                     <p class="store_detail_title">{{name}}</p>
                     <p class="store_detail_description">{{description}}</p>
-                    
-                    
                 </div>
                 <div class="promo_right_div">
                     
