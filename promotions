@@ -102,7 +102,7 @@
         <script id="store_promo_template" type="x-tmpl-mustache/text">
             <li>
                 <div class="promo_left_div">
-                    <p class="store_detail_title">{{name}}</p>
+                    <a href="/promotions/{{slug}}" class="store_detail_title">{{name}}</a>
                     <p class="store_detail_description">{{description}}</p>
                 </div>
                 <div class="promo_right_div">
